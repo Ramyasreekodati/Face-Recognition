@@ -1,0 +1,5 @@
+pandas = 2.2.2
+deep-face = 0.0.93
+vgg16
+pickle
+tensorflow 
